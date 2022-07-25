@@ -1,0 +1,123 @@
+<span>Certified Data Scientist from IBM</span><br>
+        <span>Certified AI-Engineer</span> <br>
+        <span> MBA in Business Analytics</span> <br>
+        </div>
+        <div class="card">
+        <img class="bg-img" id="bg-img" src="me.gif" alt="AI gif">
+        <h3>Name: ABIR SUR </h3>
+        <p>content</p>
+        </div>
+        <div class="right-3">
+        <span>Research work with B.E.R.T / NLP</span><br>
+        <span>4+ years Work-exp</span><br>
+        <span>Front-end Web-Development</span><br>
+
+
+
+
+
+.imp-aspects
+{
+  display: flex;
+  padding-top: 200px;
+  /* padding-bottom: 110px; */
+  /* flex-direction: row; */
+  justify-content: center;
+  align-items: center;
+  /* margin-top: 100px; */
+  flex-wrap: wrap;
+}
+
+.bg-img
+{
+  width: 25%; 
+  mix-blend-mode: screen;
+  border-radius: 50%;
+  margin-top: 90px;
+}
+.bg-img
+{
+  position: relative;
+  width: ;
+}
+
+
+
+span
+{
+  color: rgb(109, 220, 253);
+  line-height: 150px;
+  /* margin-top: 90px; */
+  font-family: 'Dancing Script', cursive;
+  font-size: 28px;
+  font-weight: 900;
+  /* font-stretch: expanded; */
+  /* background-color: rgb(2, 2, 250); */
+  border-radius: 50%;
+  /* padding: 20px; */
+  /* text-align: center; */
+  /* text-shadow: 3px 3px #686363; */
+  text-decoration: solid;
+  /* text-transform:capitalize; */
+}
+
+.left-3
+{
+  /* float: left; */
+margin-left: 100px;
+text-align: left;
+}
+.right-3
+{
+  /* float: right; */
+  margin-right: 100px;
+  text-align: right;
+}
+
+span:hover
+{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 26px;
+  color: aliceblue;
+  text-shadow: 1px 1px 2px rgb(253, 251, 251), 0 0 25px rgb(41, 41, 148), 0 0 5px rgb(52, 52, 71);
+}
+
+
+
+
+<a  href="https://www.linkedin.com/in/abir-sur-37a26b23/"><img id="linkedin" src="linkedin.webp" alt="linkedin"></a>
+        <a id="insta" href="https://www.instagram.com/abir_lucifer_bunny/"><img src="insta.webp" alt="Instagram"></a>
+        <a id="fb" href="https://www.facebook.com/abirsur90/"><img src="facebook.webp" alt="facebook"></a>
+        <p> © Abir Sur 2021 </p>
+
+
+        .sm-handles
+{
+  margin-top: 20px;
+  display: block;
+  text-align: center;
+}
+.sm-handles a
+{
+  padding-right: 10px;
+}
+
+.sm-handles p
+{
+  /* display: inline-block; */
+  color: aqua;
+  position: absolute;
+  margin-top: 12px;
+  /* text-align: center; */
+}
+
+/* #link-img
+{
+  display: none;
+}
+
+.footbar:hover + #link-img
+{
+display: block;  
+
+} */
